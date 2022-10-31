@@ -1,5 +1,5 @@
 #!/bin/python
-import RuntimeSetup
+
 
 class GoIshi:
   """ The Go-Ishi are the stones placed upon the Go-Ban.
